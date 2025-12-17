@@ -60,5 +60,5 @@ a
 A
 
 a-A 2:1
-OutputCopy
+### Output
 a
